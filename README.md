@@ -1,18 +1,28 @@
-# Getting Started with Create React App
+# Passos para executar o projeto
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+instale o Yarn.
 
-## Available Scripts
+## Instalar via npm
+É recomendável instalar o Yarn por meio do gerenciador de pacotes npm , que vem junto com o Node.js quando você o instala em seu sistema.
 
-In the project directory, you can run:
+Depois de instalar o npm, você pode executar o seguinte para instalar e atualizar o Yarn:
 
-### `npm start`
+- npm install --global yarn
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Mac OS
+## Homebrew
+Você pode instalar o Yarn através do gerenciador de pacotes Homebrew . Isso também instalará o Node.js, se ainda não estiver instalado.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- brew install yarn
+
+## Após a instalação abra a pasta "challenger" e execute o seguintes comandos no terminal.
+
+### yarn start
+
+Executa o aplicativo no modo de desenvolvimento (no terminal).
+Abra [http: // localhost: 3000] (http: // localhost: 3000) para visualizá-lo no navegador.
+
+
 
 ### `npm test`
 
